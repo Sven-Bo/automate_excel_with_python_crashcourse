@@ -4,7 +4,7 @@ In this video/repo, you'll learn how to become an office superhero by automating
 
 
 
-## Video Tutorial (Coming soon!)
+## Video Tutorial
 [![YouTube Video](https://img.youtube.com/vi/QgiPsxDsxpY/0.jpg)](https://youtu.be/QgiPsxDsxpY)
 
 
