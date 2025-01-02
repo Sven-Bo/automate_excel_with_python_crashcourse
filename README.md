@@ -1,11 +1,11 @@
 # Excel Automation Crashcourse w/ Python
 
-This tutorial/notebook demonstrates how to automate Excel using Python.
+In this video/repo, you'll learn how to become an office superhero by automating Excel tasks with Python! I've been doing this in real businesses for years, and I've boiled it all down into a super simple crash course just for you. We'll kick things off by covering the basics, like reading and writing values in your spreadsheet using Python. Then, we'll explore panda data frames and even show you how to automate a stock report and save it as a PDF. I'll also teach you how to trigger your Python automation straight from Excel, so your co-workers can easily run it themselves with just a click of a button. Along the way, you'll see how to connect Python to your workbook, select sheets, and read and write awesome dashboards. Plus, we'll dive into the magic of using named ranges in Excel for more reliable automation. By the end of this video, you'll know how to automate tasks, save loads of time, and impress everyone at work.
 
 
 
 ## Video Tutorial (Coming soon!)
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/QgiPsxDsxpY/0.jpg)](https://youtu.be/QgiPsxDsxpY)
 
 
 ## 🤝 Connect with Me
